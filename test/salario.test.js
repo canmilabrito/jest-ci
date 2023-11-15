@@ -1,4 +1,4 @@
-const {salarios} = require('./salario');
+const {salarios} = require('../src/salario');
 
 describe('cálculos para folha de pagamento', () => {
     /*let valorSalario, descontos, faltas;
